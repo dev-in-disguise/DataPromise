@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<Version>0.1.0</Version>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\DataPromise.Analyzer\DataPromise.Analyzer.csproj" />
+		<ProjectReference Include="..\DataPromise.Core\DataPromise.Core.csproj" />
+	</ItemGroup>
+
+</Project>
